@@ -59,7 +59,6 @@
         85678907,
         102191569,
         85632513,
-        890430645,
         85678917
     ],
     "wof:breaches":[],
@@ -75,7 +74,6 @@
         {
             "continent_id":102191569,
             "country_id":85632513,
-            "county_id":890430645,
             "locality_id":-1,
             "neighbourhood_id":1126069007,
             "region_id":85678907
@@ -83,7 +81,6 @@
         {
             "continent_id":102191569,
             "country_id":85632513,
-            "county_id":890430645,
             "locality_id":-1,
             "neighbourhood_id":1126069007,
             "region_id":85678917

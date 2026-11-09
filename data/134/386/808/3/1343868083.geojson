@@ -34,7 +34,6 @@
         102191569,
         85632513,
         85678907,
-        890430645,
         85678917
     ],
     "wof:breaches":[],
@@ -47,14 +46,12 @@
         {
             "continent_id":102191569,
             "country_id":85632513,
-            "county_id":890430645,
             "locality_id":1343868083,
             "region_id":85678907
         },
         {
             "continent_id":102191569,
             "country_id":85632513,
-            "county_id":890430645,
             "locality_id":1343868083,
             "region_id":85678917
         }
@@ -62,7 +59,7 @@
     "wof:id":1343868083,
     "wof:lastmodified":1566666294,
     "wof:name":"Besh-Tepa",
-    "wof:parent_id":890430645,
+    "wof:parent_id":85678917,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tj",
     "wof:superseded_by":[],
