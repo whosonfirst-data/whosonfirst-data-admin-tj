@@ -49,7 +49,7 @@
         "wk:page":"Kirskhana"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"2606d45791ec57d913b7eb0c5c2f167a",
+    "wof:geomhash":"fc05beb71af6207109cf7893a88a5db3",
     "wof:hierarchy":[
         {
             "country_id":85632513,
@@ -72,5 +72,5 @@
     67.70345999999999,
     39.36932
 ],
-  "geometry": {"coordinates":[67.70345999999999,39.36932],"type":"Point"}
+  "geometry": {"coordinates":[67.70346,39.36932],"type":"Point"}
 }

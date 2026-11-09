@@ -51,7 +51,7 @@
         "wk:page":"Bedik%2C_Tajikistan"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"efed0a28349806ac7b4ade548dca93f6",
+    "wof:geomhash":"55dc36d254a2585a475e6208ed1433a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     67.71356999999999,
     39.40864000000001
 ],
-  "geometry": {"coordinates":[67.71356999999999,39.40864000000001],"type":"Point"}
+  "geometry": {"coordinates":[67.71357,39.40864],"type":"Point"}
 }

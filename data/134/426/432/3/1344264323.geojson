@@ -57,7 +57,7 @@
         "wk:page":"Fatmev"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"1e95571c0ae2ec899b01fddb0ca7d9cf",
+    "wof:geomhash":"6bfd4bf60562680d2920688ad22306b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     68.68741999999999,
     39.39077
 ],
-  "geometry": {"coordinates":[68.68741999999999,39.39077],"type":"Point"}
+  "geometry": {"coordinates":[68.68742,39.39077],"type":"Point"}
 }

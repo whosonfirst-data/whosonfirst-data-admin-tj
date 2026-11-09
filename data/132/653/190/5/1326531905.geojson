@@ -51,7 +51,7 @@
         "wk:page":"Karasakol"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"2b78f15c2c0e3d77530c723518b8d430",
+    "wof:geomhash":"6c12521ab5c5b78c293c0986515eb315",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     68.96611999999999,
     39.82399
 ],
-  "geometry": {"coordinates":[68.96611999999999,39.82399],"type":"Point"}
+  "geometry": {"coordinates":[68.96612,39.82399],"type":"Point"}
 }

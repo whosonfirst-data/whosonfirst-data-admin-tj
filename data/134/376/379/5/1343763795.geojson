@@ -52,7 +52,7 @@
         "wk:page":"Khayronbed"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"a793110d67218055b67220785415a3b9",
+    "wof:geomhash":"415a5d4061017f6a9ef360d057defa8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     68.46486999999999,
     39.14309
 ],
-  "geometry": {"coordinates":[68.46486999999999,39.14309],"type":"Point"}
+  "geometry": {"coordinates":[68.46487,39.14309],"type":"Point"}
 }

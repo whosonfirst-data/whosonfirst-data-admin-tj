@@ -51,7 +51,7 @@
         "wk:page":"Kalon"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"4b7a1710b6236ab1eda1ad508673a05e",
+    "wof:geomhash":"26c1834945b717869d88a53dc1893772",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     68.83003000000001,
     39.04265
 ],
-  "geometry": {"coordinates":[68.83003000000001,39.04265],"type":"Point"}
+  "geometry": {"coordinates":[68.83003,39.04265],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Dehmalik"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"271b6923decff7d0aa287e0318d1306c",
+    "wof:geomhash":"2dbf2fccc3644331b24c8162f9625e0e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     68.91299000000001,
     38.85003
 ],
-  "geometry": {"coordinates":[68.91299000000001,38.85003],"type":"Point"}
+  "geometry": {"coordinates":[68.91299,38.85003],"type":"Point"}
 }

@@ -53,7 +53,7 @@
         "wk:page":"Khazora"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"ab11a321e22f574e930d9a1c8ad8dd03",
+    "wof:geomhash":"318c7fb220065256a5f5c5e46e941724",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     68.87274000000001,
     39.04551
 ],
-  "geometry": {"coordinates":[68.87274000000001,39.04551],"type":"Point"}
+  "geometry": {"coordinates":[68.87274,39.04551],"type":"Point"}
 }

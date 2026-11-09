@@ -53,7 +53,7 @@
         "wk:page":"Dulona"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"b2c8554e930ed59e4747cef6c1c2cac0",
+    "wof:geomhash":"d70491395a2a739beee8148fe4b05adb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     70.04363000000001,
     40.62788
 ],
-  "geometry": {"coordinates":[70.04363000000001,40.62788],"type":"Point"}
+  "geometry": {"coordinates":[70.04363,40.62788],"type":"Point"}
 }

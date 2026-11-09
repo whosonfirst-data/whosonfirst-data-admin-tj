@@ -48,7 +48,7 @@
         "wk:page":"Zindikan"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"b01de6062604c856ae60afe472100902",
+    "wof:geomhash":"771b6886f1e4012db1e41df36b0875d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     68.58604,
     39.43369000000001
 ],
-  "geometry": {"coordinates":[68.58604,39.43369000000001],"type":"Point"}
+  "geometry": {"coordinates":[68.58604,39.43369],"type":"Point"}
 }

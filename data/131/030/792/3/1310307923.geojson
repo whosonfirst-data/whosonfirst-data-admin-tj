@@ -65,7 +65,7 @@
         "gn:id":1346171
     },
     "wof:country":"TJ",
-    "wof:geomhash":"e6a16c0d66938e345c2cc1daea880911",
+    "wof:geomhash":"00774689efa81eae135c05993c4839e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     68.83643000000001,
     38.1243
 ],
-  "geometry": {"coordinates":[68.83643000000001,38.1243],"type":"Point"}
+  "geometry": {"coordinates":[68.83643,38.1243],"type":"Point"}
 }

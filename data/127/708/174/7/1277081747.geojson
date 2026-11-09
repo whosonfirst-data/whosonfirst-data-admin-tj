@@ -48,7 +48,7 @@
         "wk:page":"Iski-Darkh"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"91a98dc542f671d25241a28f5ea60a80",
+    "wof:geomhash":"3381e04ca55b38b55b72ebaee2cc29af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     69.01666999999999,
     39.31667
 ],
-  "geometry": {"coordinates":[69.01666999999999,39.31667],"type":"Point"}
+  "geometry": {"coordinates":[69.01667,39.31667],"type":"Point"}
 }

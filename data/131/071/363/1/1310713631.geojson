@@ -53,7 +53,7 @@
         "wk:page":"Karamazor"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"f9150e64eab84cc335192e05adfd2830",
+    "wof:geomhash":"2ccac49cdf2a71473d05a0e421cc9405",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     69.96115999999999,
     40.6709
 ],
-  "geometry": {"coordinates":[69.96115999999999,40.6709],"type":"Point"}
+  "geometry": {"coordinates":[69.96116,40.6709],"type":"Point"}
 }

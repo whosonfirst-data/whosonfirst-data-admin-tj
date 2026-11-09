@@ -63,7 +63,7 @@
         "wk:page":"Khonabad"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"88f5557728e82ed62e0deaa46710a183",
+    "wof:geomhash":"2484d6a42e2396c47d48244cf2510ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     70.59168000000003,
     40.19347
 ],
-  "geometry": {"coordinates":[70.59168000000003,40.19347],"type":"Point"}
+  "geometry": {"coordinates":[70.59168,40.19347],"type":"Point"}
 }

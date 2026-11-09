@@ -54,7 +54,7 @@
         "wk:page":"Dikhisor"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"58bc9e5faf9c52f64fa7b5132fbf6899",
+    "wof:geomhash":"1e54a511a57f2e4098dd0a7801b6f6ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     70.2226,
     39.44282000000001
 ],
-  "geometry": {"coordinates":[70.2226,39.44282000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.2226,39.44282],"type":"Point"}
 }

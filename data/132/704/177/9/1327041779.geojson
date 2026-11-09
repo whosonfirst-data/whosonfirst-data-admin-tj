@@ -48,7 +48,7 @@
         "wk:page":"Khuzya"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"d9593df239ae8f3bb4e9d19648e073b2",
+    "wof:geomhash":"0785331d589bf57a5e3d297c9f1310c8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     68.98333000000001,
     39.96667
 ],
-  "geometry": {"coordinates":[68.98333000000001,39.96667],"type":"Point"}
+  "geometry": {"coordinates":[68.98333,39.96667],"type":"Point"}
 }

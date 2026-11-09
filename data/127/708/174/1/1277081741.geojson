@@ -48,7 +48,7 @@
         "wk:page":"Ispan"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"d77be48578d648b02d1d58e1c18ffb9c",
+    "wof:geomhash":"a038b35b0511f59ffa9273dd840aaf82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     68.69821999999999,
     39.40046
 ],
-  "geometry": {"coordinates":[68.69821999999999,39.40046],"type":"Point"}
+  "geometry": {"coordinates":[68.69822,39.40046],"type":"Point"}
 }

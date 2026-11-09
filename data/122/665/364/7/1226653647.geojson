@@ -52,7 +52,7 @@
         "wk:page":"Guytan"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"deb14660f6cb83572791b01258eb488d",
+    "wof:geomhash":"e0c5d4f851eb8f4d44e7f587c7498ff8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     68.06683000000001,
     39.29066
 ],
-  "geometry": {"coordinates":[68.06683000000001,39.29066],"type":"Point"}
+  "geometry": {"coordinates":[68.06683,39.29066],"type":"Point"}
 }

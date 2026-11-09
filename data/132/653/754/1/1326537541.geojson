@@ -53,7 +53,7 @@
         "wk:page":"Veshkand"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"6201b5d5bb8c21e0cdc1661bfead1033",
+    "wof:geomhash":"893271884bfd01db52b698573d1ef827",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     68.33736999999999,
     39.44655
 ],
-  "geometry": {"coordinates":[68.33736999999999,39.44655],"type":"Point"}
+  "geometry": {"coordinates":[68.33737,39.44655],"type":"Point"}
 }

@@ -62,7 +62,7 @@
         "wk:page":"Obburdon"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"640a7bd63c733843c395693b62b4f0f9",
+    "wof:geomhash":"8bf52edfaf94a458213327f05ef30bf4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     69.30471999999999,
     40.42778
 ],
-  "geometry": {"coordinates":[69.30471999999999,40.42778],"type":"Point"}
+  "geometry": {"coordinates":[69.30472,40.42778],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Kommunizm"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"2031a9a32c8095fca05caf4047dd3a61",
+    "wof:geomhash":"b2b513a3e035a24f3e75fe9471993040",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     68.16946999999999,
     37.46471
 ],
-  "geometry": {"coordinates":[68.16946999999999,37.46471],"type":"Point"}
+  "geometry": {"coordinates":[68.16947,37.46471],"type":"Point"}
 }

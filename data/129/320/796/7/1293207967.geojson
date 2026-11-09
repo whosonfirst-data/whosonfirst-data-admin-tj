@@ -48,7 +48,7 @@
         "wk:page":"Utogar"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"be06df491c2e2abc68ae3b085cdada13",
+    "wof:geomhash":"4731d15d0cfd9783f0d2b8cc2a9d1d1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     68.92286999999999,
     39.40528
 ],
-  "geometry": {"coordinates":[68.92286999999999,39.40528],"type":"Point"}
+  "geometry": {"coordinates":[68.92287,39.40528],"type":"Point"}
 }

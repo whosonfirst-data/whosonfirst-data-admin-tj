@@ -54,7 +54,7 @@
         "wk:page":"Isiz-Poyen"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"5649108a285d65b5dae2a45acaad58e4",
+    "wof:geomhash":"0534acb3d3d3d3cd0ec9537fd75f183f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     69.45973000000001,
     39.42872
 ],
-  "geometry": {"coordinates":[69.45973000000001,39.42872],"type":"Point"}
+  "geometry": {"coordinates":[69.45973,39.42872],"type":"Point"}
 }

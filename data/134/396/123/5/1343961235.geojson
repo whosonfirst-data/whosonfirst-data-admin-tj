@@ -54,7 +54,7 @@
         "wk:page":"Dektur"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"d41935914d18273f9bde5193510b85b0",
+    "wof:geomhash":"5c6808a35af8a02cca09fe64aa0ea4e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     69.79061999999999,
     38.22203
 ],
-  "geometry": {"coordinates":[69.79061999999999,38.22203],"type":"Point"}
+  "geometry": {"coordinates":[69.79062,38.22203],"type":"Point"}
 }

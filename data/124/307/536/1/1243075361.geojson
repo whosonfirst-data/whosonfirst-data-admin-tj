@@ -51,7 +51,7 @@
         "wk:page":"Uyas"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"676ded6ab3033a6501d0f5a8e2739722",
+    "wof:geomhash":"5f6f2af309e8cffeb5b59ab656eb6f33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     69.03518000000001,
     40.09401
 ],
-  "geometry": {"coordinates":[69.03518000000001,40.09401],"type":"Point"}
+  "geometry": {"coordinates":[69.03518,40.09401],"type":"Point"}
 }

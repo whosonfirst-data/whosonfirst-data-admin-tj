@@ -45,7 +45,7 @@
         "wk:page":"Vashan"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"1eabf607a1274b6a4f56b903b76d2f0f",
+    "wof:geomhash":"4de2f5f08fe680bd6a4152d2a080667d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     68.27308000000001,
     39.40624
 ],
-  "geometry": {"coordinates":[68.27308000000001,39.40624],"type":"Point"}
+  "geometry": {"coordinates":[68.27308,39.40624],"type":"Point"}
 }

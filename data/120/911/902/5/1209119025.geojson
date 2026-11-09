@@ -38,7 +38,7 @@
         "gn:id":1222328
     },
     "wof:country":"TJ",
-    "wof:geomhash":"5af6ad8b63c4e6f29a4b9008dc31330f",
+    "wof:geomhash":"64a3d90f58bb36a9e08a64785439b35b",
     "wof:hierarchy":[
         {
             "country_id":85632513,
@@ -61,5 +61,5 @@
     68.80641999999999,
     38.28936
 ],
-  "geometry": {"coordinates":[68.80641999999999,38.28936],"type":"Point"}
+  "geometry": {"coordinates":[68.80642,38.28936],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Yakkakhona"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"f7e8db43c2c361bdbb7b3b252f8ca638",
+    "wof:geomhash":"65f8adca17b8b0efc446494431b8f677",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     68.11043000000001,
     39.31914
 ],
-  "geometry": {"coordinates":[68.11043000000001,39.31914],"type":"Point"}
+  "geometry": {"coordinates":[68.11043,39.31914],"type":"Point"}
 }

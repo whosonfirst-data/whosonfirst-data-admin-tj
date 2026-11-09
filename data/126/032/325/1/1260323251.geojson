@@ -54,7 +54,7 @@
         "wk:page":"Luchob"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"18a0594b345756587d7df9d89718a429",
+    "wof:geomhash":"1c61b0ea117d1dd7b8144fb28382b930",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     68.68139000000001,
     38.7048
 ],
-  "geometry": {"coordinates":[68.68139000000001,38.7048],"type":"Point"}
+  "geometry": {"coordinates":[68.68139,38.7048],"type":"Point"}
 }

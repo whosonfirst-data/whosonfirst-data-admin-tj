@@ -48,7 +48,7 @@
         "wk:page":"Chimkurgan"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"35e0702b78de9ba5c33099d71c60f44a",
+    "wof:geomhash":"278a1aa577d4ba2b9ca5a9905e5cc6d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     67.51368000000001,
     39.49698
 ],
-  "geometry": {"coordinates":[67.51368000000001,39.49698],"type":"Point"}
+  "geometry": {"coordinates":[67.51368,39.49698],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Durman"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"d9aa2ecb593c8d4894ac230bb09750c7",
+    "wof:geomhash":"c3d2f55b4dabc4b378d493b89efddbf6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     67.45056,
     39.50944000000001
 ],
-  "geometry": {"coordinates":[67.45056,39.50944000000001],"type":"Point"}
+  "geometry": {"coordinates":[67.45056,39.50944],"type":"Point"}
 }

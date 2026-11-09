@@ -60,7 +60,7 @@
         "wk:page":"Qahramon"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"965e1b5a63990f356416f5f84f0612f8",
+    "wof:geomhash":"8421e57e6eed5df97a61f01b6ef66554",
     "wof:hierarchy":[
         {
             "country_id":85632513,
@@ -83,5 +83,5 @@
     68.74231999999999,
     37.85795
 ],
-  "geometry": {"coordinates":[68.74231999999999,37.85795],"type":"Point"}
+  "geometry": {"coordinates":[68.74232,37.85795],"type":"Point"}
 }

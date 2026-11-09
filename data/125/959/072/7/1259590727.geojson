@@ -52,7 +52,7 @@
         "wk:page":"Iske-Dayak"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"28a719a8ec7ac77616a0756e2456831a",
+    "wof:geomhash":"1abc0347bb518ac45d48d6ee3e954027",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     68.97910999999999,
     39.82463
 ],
-  "geometry": {"coordinates":[68.97910999999999,39.82463],"type":"Point"}
+  "geometry": {"coordinates":[68.97911,39.82463],"type":"Point"}
 }

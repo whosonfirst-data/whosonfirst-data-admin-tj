@@ -44,7 +44,7 @@
         "wk:page":"Worsowut"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"f9186a57cec17afa3c65af413acf9f63",
+    "wof:geomhash":"23f1289975ad356d3565aac13cc50441",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     69.01666999999999,
     39.21667
 ],
-  "geometry": {"coordinates":[69.01666999999999,39.21667],"type":"Point"}
+  "geometry": {"coordinates":[69.01667,39.21667],"type":"Point"}
 }

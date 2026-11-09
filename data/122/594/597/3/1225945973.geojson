@@ -52,7 +52,7 @@
         "wk:page":"Vagashton"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"e5fbc9347c9d26128f4953ac34ce7b53",
+    "wof:geomhash":"75edcd8804b17fb8d0c0910098227caa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     67.79184000000001,
     39.3008
 ],
-  "geometry": {"coordinates":[67.79184000000001,39.3008],"type":"Point"}
+  "geometry": {"coordinates":[67.79184,39.3008],"type":"Point"}
 }

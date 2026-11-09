@@ -53,7 +53,7 @@
         "wk:page":"Sicharog"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"08fb54d5918fd7be5c29c0539806e8b9",
+    "wof:geomhash":"d1edd8c8a6c9b088de0263fd1bdcb179",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     69.80235,
     38.73014000000001
 ],
-  "geometry": {"coordinates":[69.80235,38.73014000000001],"type":"Point"}
+  "geometry": {"coordinates":[69.80235,38.73014],"type":"Point"}
 }

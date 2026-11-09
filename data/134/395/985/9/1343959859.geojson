@@ -51,7 +51,7 @@
         "wk:page":"Khayrabad"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"01309810d6b13cd11f9f0655488244b9",
+    "wof:geomhash":"3cb6db23f79b5f11b4697db100bd1921",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     69.51666999999999,
     39.41667
 ],
-  "geometry": {"coordinates":[69.51666999999999,39.41667],"type":"Point"}
+  "geometry": {"coordinates":[69.51667,39.41667],"type":"Point"}
 }

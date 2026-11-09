@@ -39,7 +39,7 @@
         "wk:page":"Farkow"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"1f0b72b11b52e3b11ddc6f2e3dc4b347",
+    "wof:geomhash":"3095f1a974dd8c5cf1dd15e165801824",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,5 +65,5 @@
     68.99403000000001,
     39.22109
 ],
-  "geometry": {"coordinates":[68.99403000000001,39.22109],"type":"Point"}
+  "geometry": {"coordinates":[68.99403,39.22109],"type":"Point"}
 }

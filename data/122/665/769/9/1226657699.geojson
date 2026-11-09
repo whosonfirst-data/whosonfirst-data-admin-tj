@@ -60,7 +60,7 @@
         "wk:page":"Kulkent"
     },
     "wof:country":"TJ",
-    "wof:geomhash":"9a18f3a9fb5eac96d92373a24085efc1",
+    "wof:geomhash":"edb6cf56c28acdd783c3e020c6d9172c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     70.70201999999998,
     40.14343
 ],
-  "geometry": {"coordinates":[70.70201999999998,40.14343],"type":"Point"}
+  "geometry": {"coordinates":[70.70202,40.14343],"type":"Point"}
 }
