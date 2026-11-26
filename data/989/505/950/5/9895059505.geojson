@@ -1,0 +1,72 @@
+{
+  "id": 9895059505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.77657,38.61822,68.77657,38.61822",
+    "geom:latitude":38.61822,
+    "geom:longitude":68.77657,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264649: name \"Mahallai Osimi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264649"
+        },
+        {
+            "citation":"GeoNames populated place 13264649: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264649"
+        },
+        {
+            "citation":"GeoNames populated place 13264649: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264649"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678917 (Dushanbe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678917,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264649
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"e3c1a7d02e5a27eca731042f47ac795f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "locality_id":9895059505,
+            "region_id":85678917
+        }
+    ],
+    "wof:id":9895059505,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Mahallai Osimi",
+    "wof:parent_id":85678917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.77657,
+    38.61822,
+    68.77657,
+    38.61822
+],
+  "geometry": {"coordinates":[68.77657,38.61822],"type":"Point"}
+}

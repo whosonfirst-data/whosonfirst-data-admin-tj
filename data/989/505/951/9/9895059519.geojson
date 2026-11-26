@@ -1,0 +1,74 @@
+{
+  "id": 9895059519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.69358,38.48209,68.69358,38.48209",
+    "geom:latitude":38.48209,
+    "geom:longitude":68.69358,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13513028: name \"Hazora\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13513028"
+        },
+        {
+            "citation":"GeoNames populated place 13513028: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13513028"
+        },
+        {
+            "citation":"GeoNames populated place 13513028: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13513028"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091918381 (Rudaki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678907,
+        102191569,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13513028
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"d6a3c154e8fba9669db7a1b44a8c84cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":9895059519,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":9895059519,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Hazora",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.69358,
+    38.48209,
+    68.69358,
+    38.48209
+],
+  "geometry": {"coordinates":[68.69358,38.48209],"type":"Point"}
+}

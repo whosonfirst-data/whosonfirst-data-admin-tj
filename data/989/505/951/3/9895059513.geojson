@@ -1,0 +1,72 @@
+{
+  "id": 9895059513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.75129,38.58022,68.75129,38.58022",
+    "geom:latitude":38.58022,
+    "geom:longitude":68.75129,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264659: name \"Mikrorayoni hashtodu yak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264659"
+        },
+        {
+            "citation":"GeoNames populated place 13264659: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264659"
+        },
+        {
+            "citation":"GeoNames populated place 13264659: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264659"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678917 (Dushanbe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678917,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264659
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"b911e6e4308d01504f8f701dc643bfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "locality_id":9895059513,
+            "region_id":85678917
+        }
+    ],
+    "wof:id":9895059513,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Mikrorayoni hashtodu yak",
+    "wof:parent_id":85678917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.75129,
+    38.58022,
+    68.75129,
+    38.58022
+],
+  "geometry": {"coordinates":[68.75129,38.58022],"type":"Point"}
+}

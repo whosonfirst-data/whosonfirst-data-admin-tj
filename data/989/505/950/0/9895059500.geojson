@@ -1,0 +1,74 @@
+{
+  "id": 9895059500,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.52259,37.58478,71.52259,37.58478",
+    "geom:latitude":37.58478,
+    "geom:longitude":71.52259,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719643: name \"Vahdat\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719643"
+        },
+        {
+            "citation":"GeoNames populated place 12719643: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719643"
+        },
+        {
+            "citation":"GeoNames populated place 12719643: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719643"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091917883 (Shughnon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678899,
+        102191569,
+        1091917883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719643
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"58ada25a6a5b1f6f36a6cddb7a66f342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917883,
+            "locality_id":9895059500,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":9895059500,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Vahdat",
+    "wof:parent_id":1091917883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.52259,
+    37.58478,
+    71.52259,
+    37.58478
+],
+  "geometry": {"coordinates":[71.52259,37.58478],"type":"Point"}
+}

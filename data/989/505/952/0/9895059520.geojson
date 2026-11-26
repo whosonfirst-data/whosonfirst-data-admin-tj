@@ -1,0 +1,74 @@
+{
+  "id": 9895059520,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.68156,38.48516,68.68156,38.48516",
+    "geom:latitude":38.48516,
+    "geom:longitude":68.68156,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13513029: name \"Safobakhsh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13513029"
+        },
+        {
+            "citation":"GeoNames populated place 13513029: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13513029"
+        },
+        {
+            "citation":"GeoNames populated place 13513029: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13513029"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091918381 (Rudaki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678907,
+        102191569,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13513029
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"368915220453f3e68bf4581c813961ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":9895059520,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":9895059520,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Safobakhsh",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.68156,
+    38.48516,
+    68.68156,
+    38.48516
+],
+  "geometry": {"coordinates":[68.68156,38.48516],"type":"Point"}
+}

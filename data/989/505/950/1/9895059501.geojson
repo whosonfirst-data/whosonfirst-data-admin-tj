@@ -1,0 +1,74 @@
+{
+  "id": 9895059501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.63913,39.38578,68.63913,39.38578",
+    "geom:latitude":39.38578,
+    "geom:longitude":68.63913,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12750580: name \"Tomin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12750580"
+        },
+        {
+            "citation":"GeoNames populated place 12750580: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12750580"
+        },
+        {
+            "citation":"GeoNames populated place 12750580: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12750580"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091916317 (Aini), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678913,
+        102191569,
+        1091916317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12750580
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"4354188da5dc10f31fa2035a8fc505d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916317,
+            "locality_id":9895059501,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":9895059501,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Tomin",
+    "wof:parent_id":1091916317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.63913,
+    39.38578,
+    68.63913,
+    39.38578
+],
+  "geometry": {"coordinates":[68.63913,39.38578],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895059485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.45474,38.37078,71.45474,38.37078",
+    "geom:latitude":38.37078,
+    "geom:longitude":71.45474,
+    "gn:population":2636,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1220210: name \"Vanj\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1220210"
+        },
+        {
+            "citation":"GeoNames populated place 1220210: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1220210"
+        },
+        {
+            "citation":"GeoNames populated place 1220210: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1220210"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091918175 (Vanj), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678899,
+        102191569,
+        1091918175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220210
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"5351c3033e65452ec3a40d5953e0b8b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918175,
+            "locality_id":9895059485,
+            "region_id":85678899
+        }
+    ],
+    "wof:id":9895059485,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Vanj",
+    "wof:parent_id":1091918175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.45474,
+    38.37078,
+    71.45474,
+    38.37078
+],
+  "geometry": {"coordinates":[71.45474,38.37078],"type":"Point"}
+}

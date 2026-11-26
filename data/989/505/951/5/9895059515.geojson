@@ -1,0 +1,74 @@
+{
+  "id": 9895059515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.05562,39.70819,69.05562,39.70819",
+    "geom:latitude":39.70819,
+    "geom:longitude":69.05562,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13413252: name \"Navobod\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13413252"
+        },
+        {
+            "citation":"GeoNames populated place 13413252: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13413252"
+        },
+        {
+            "citation":"GeoNames populated place 13413252: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13413252"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091916615 (Ghonchi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678913,
+        102191569,
+        1091916615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13413252
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"969825c4be79dc7736a897cbd177eff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916615,
+            "locality_id":9895059515,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":9895059515,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Navobod",
+    "wof:parent_id":1091916615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.05562,
+    39.70819,
+    69.05562,
+    39.70819
+],
+  "geometry": {"coordinates":[69.05562,39.70819],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895059507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.78363,38.62407,68.78363,38.62407",
+    "geom:latitude":38.62407,
+    "geom:longitude":68.78363,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264651: name \"Mahallai Chashmasor\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264651"
+        },
+        {
+            "citation":"GeoNames populated place 13264651: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264651"
+        },
+        {
+            "citation":"GeoNames populated place 13264651: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264651"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091918381 (Rudaki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678907,
+        102191569,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264651
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"9a4a6af89dd6c22635da9caaeb29ec99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":9895059507,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":9895059507,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Mahallai Chashmasor",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.78363,
+    38.62407,
+    68.78363,
+    38.62407
+],
+  "geometry": {"coordinates":[68.78363,38.62407],"type":"Point"}
+}

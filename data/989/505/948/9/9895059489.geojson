@@ -1,0 +1,74 @@
+{
+  "id": 9895059489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.18644,37.40973,68.18644,37.40973",
+    "geom:latitude":37.40973,
+    "geom:longitude":68.18644,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1221583: name \"Qubodiyon\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1221583"
+        },
+        {
+            "citation":"GeoNames populated place 1221583: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1221583"
+        },
+        {
+            "citation":"GeoNames populated place 1221583: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1221583"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091916975 (Qubodiyon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678905,
+        102191569,
+        1091916975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1221583
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"f947aa006c97a65a413bdc31a173d584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916975,
+            "locality_id":9895059489,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":9895059489,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Qubodiyon",
+    "wof:parent_id":1091916975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.18644,
+    37.40973,
+    68.18644,
+    37.40973
+],
+  "geometry": {"coordinates":[68.18644,37.40973],"type":"Point"}
+}
