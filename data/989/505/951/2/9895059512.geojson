@@ -1,0 +1,72 @@
+{
+  "id": 9895059512,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.76117,38.5807,68.76117,38.5807",
+    "geom:latitude":38.5807,
+    "geom:longitude":68.76117,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13264658: name \"Sharaf\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13264658"
+        },
+        {
+            "citation":"GeoNames populated place 13264658: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13264658"
+        },
+        {
+            "citation":"GeoNames populated place 13264658: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13264658"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678917 (Dushanbe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678917,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13264658
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"75dca4ebc218e748ad6f1a73d66ff684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "locality_id":9895059512,
+            "region_id":85678917
+        }
+    ],
+    "wof:id":9895059512,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Sharaf",
+    "wof:parent_id":85678917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.76117,
+    38.5807,
+    68.76117,
+    38.5807
+],
+  "geometry": {"coordinates":[68.76117,38.5807],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 9895059486,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.80929,39.77447,68.80929,39.77447",
+    "geom:latitude":39.77447,
+    "geom:longitude":68.80929,
+    "gn:population":22903,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1220571: name \"Shahriston\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1220571"
+        },
+        {
+            "citation":"GeoNames populated place 1220571: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1220571"
+        },
+        {
+            "citation":"GeoNames populated place 1220571: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1220571"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091917837 (Shahriston), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678913,
+        102191569,
+        1091917837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1220571
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"2f995ffad4daddea668ffded344a94a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917837,
+            "locality_id":9895059486,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":9895059486,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Shahriston",
+    "wof:parent_id":1091917837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.80929,
+    39.77447,
+    68.80929,
+    39.77447
+],
+  "geometry": {"coordinates":[68.80929,39.77447],"type":"Point"}
+}

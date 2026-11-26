@@ -1,0 +1,74 @@
+{
+  "id": 9895059497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.84679,40.17603,68.84679,40.17603",
+    "geom:latitude":40.17603,
+    "geom:longitude":68.84679,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1514815: name \"Zafarobod\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1514815"
+        },
+        {
+            "citation":"GeoNames populated place 1514815: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1514815"
+        },
+        {
+            "citation":"GeoNames populated place 1514815: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1514815"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091918339 (Zafarobod), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678913,
+        102191569,
+        1091918339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514815
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c889ca8f993cd5a64303b2777f5aaae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918339,
+            "locality_id":9895059497,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":9895059497,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Zafarobod",
+    "wof:parent_id":1091918339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.84679,
+    40.17603,
+    68.84679,
+    40.17603
+],
+  "geometry": {"coordinates":[68.84679,40.17603],"type":"Point"}
+}

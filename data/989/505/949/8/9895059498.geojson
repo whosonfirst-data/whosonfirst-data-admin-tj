@@ -1,0 +1,74 @@
+{
+  "id": 9895059498,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.32528,40.36806,69.32528,40.36806",
+    "geom:latitude":40.36806,
+    "geom:longitude":69.32528,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1514861: name \"Mastchoh\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1514861"
+        },
+        {
+            "citation":"GeoNames populated place 1514861: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1514861"
+        },
+        {
+            "citation":"GeoNames populated place 1514861: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1514861"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091917221 (Mastchoh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678913,
+        102191569,
+        1091917221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1514861
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"651841bdd3c6e0773b14a769bc6b3d22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091917221,
+            "locality_id":9895059498,
+            "region_id":85678913
+        }
+    ],
+    "wof:id":9895059498,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Mastchoh",
+    "wof:parent_id":1091917221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.32528,
+    40.36806,
+    69.32528,
+    40.36806
+],
+  "geometry": {"coordinates":[69.32528,40.36806],"type":"Point"}
+}

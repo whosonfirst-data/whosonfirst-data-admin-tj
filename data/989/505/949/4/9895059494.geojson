@@ -1,0 +1,74 @@
+{
+  "id": 9895059494,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.90752,38.14149,69.90752,38.14149",
+    "geom:latitude":38.14149,
+    "geom:longitude":69.90752,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1346109: name \"Sangi Ghur\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1346109"
+        },
+        {
+            "citation":"GeoNames populated place 1346109: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1346109"
+        },
+        {
+            "citation":"GeoNames populated place 1346109: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1346109"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091916813 (Khovaling), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678905,
+        102191569,
+        1091916813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346109
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"afcb7ac8040dbcf49980f8392765999e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091916813,
+            "locality_id":9895059494,
+            "region_id":85678905
+        }
+    ],
+    "wof:id":9895059494,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Sangi Ghur",
+    "wof:parent_id":1091916813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.90752,
+    38.14149,
+    69.90752,
+    38.14149
+],
+  "geometry": {"coordinates":[69.90752,38.14149],"type":"Point"}
+}

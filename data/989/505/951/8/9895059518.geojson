@@ -1,0 +1,74 @@
+{
+  "id": 9895059518,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.71939,38.47722,68.71939,38.47722",
+    "geom:latitude":38.47722,
+    "geom:longitude":68.71939,
+    "iso:country":"TJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13513027: name \"Hosilot\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13513027"
+        },
+        {
+            "citation":"GeoNames populated place 13513027: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13513027"
+        },
+        {
+            "citation":"GeoNames populated place 13513027: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13513027"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091918381 (Rudaki), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632513,
+        85678907,
+        102191569,
+        1091918381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13513027
+    },
+    "wof:country":"TJ",
+    "wof:geomhash":"c858e2ebfa781f0eef4cbee55e64aac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632513,
+            "county_id":1091918381,
+            "locality_id":9895059518,
+            "region_id":85678907
+        }
+    ],
+    "wof:id":9895059518,
+    "wof:lastmodified":1795735131,
+    "wof:name":"Hosilot",
+    "wof:parent_id":1091918381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.71939,
+    38.47722,
+    68.71939,
+    38.47722
+],
+  "geometry": {"coordinates":[68.71939,38.47722],"type":"Point"}
+}
